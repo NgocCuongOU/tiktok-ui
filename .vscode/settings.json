@@ -1,5 +1,5 @@
 {
-  "cSpell.words": [
-    "tiktok"
-  ]
+  "cSpell.words": ["tiktok"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
