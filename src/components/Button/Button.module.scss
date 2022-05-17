@@ -21,11 +21,21 @@
     pointer-events: none;
     opacity: 0.5;
   }
+
+  .title {
+    line-height: 26px;
+  }
 }
 
 .icon + .title,
 .title + .icon {
   margin-left: 8px;
+}
+
+.icon {
+  display: inline-block;
+  text-align: center;
+  width: 24px;
 }
 
 // button types
