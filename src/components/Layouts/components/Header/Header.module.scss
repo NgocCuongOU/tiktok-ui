@@ -20,6 +20,10 @@
   width: var(--default-layout-width, 1150px);
 }
 
+.logo-link {
+  display: flex;
+}
+
 // Actions
 .actions {
   display: flex;
@@ -54,7 +58,7 @@
   line-height: 2rem;
   text-align: center;
   color: var(--white);
-  font-family: 'ProximaNova', sans-serif;
+  font-family: var(--font-family);
   background-color: var(--primary);
 }
 
