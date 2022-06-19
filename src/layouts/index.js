@@ -1,2 +1,2 @@
-export { default, default as DefaultLayout } from '~/layouts/DefaultLayout';
+export { default, default as DefaultLayout } from '~/layouts/DefaultLayout/';
 export { default as HeaderOnly } from '~/layouts/HeaderOnly';
